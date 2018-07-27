@@ -1,0 +1,8 @@
+{
+  "tpl": {
+    "base": {
+      "url": "https://github.com/zhaolandelong/base-tpl.git",
+      "branch": "master"
+    }
+  }
+}
