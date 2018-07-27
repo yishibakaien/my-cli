@@ -1,7 +1,7 @@
 {
   "tpl": {
     "base": {
-      "url": "https://github.com/zhaolandelong/base-tpl.git",
+      "url": "https://github.com/yishibakaien/cbui-toast.git",
       "branch": "master"
     }
   }
